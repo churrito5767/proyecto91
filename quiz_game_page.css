@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(46, 46, 46);
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #306330;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#numbers
+{
+    padding: 10px;
+    border-radius: 10px;
+    border-top: 10px solid rgb(221, 164, 32);
+    background-color: white;
+}
+
+#numbers input
+{
+    width: 95%;
+}
+
+.bg-danger
+{
+    border-radius: 10px;
+    padding: 5px;
+}
